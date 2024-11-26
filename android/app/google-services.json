@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "496485851384",
+    "project_id": "taginthepark-ar",
+    "storage_bucket": "taginthepark-ar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496485851384:android:a8fb226e1d77913250db0d",
+        "android_client_info": {
+          "package_name": "com.umair.beacons_plugin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496485851384-1bmjpi12l4nk4ed9pfbtkef422bn50tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwNxdjyyMT4-lCMskGZI9tTqPY9eX9HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496485851384-1bmjpi12l4nk4ed9pfbtkef422bn50tu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496485851384-f02qj959f01pmq8hc7nei58oivhmfjg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.carius.lars.arFlutterPluginExample"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496485851384:android:22a56e9bc87de72950db0d",
+        "android_client_info": {
+          "package_name": "io.carius.lars.ar_flutter_plugin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496485851384-1bmjpi12l4nk4ed9pfbtkef422bn50tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwNxdjyyMT4-lCMskGZI9tTqPY9eX9HU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496485851384-1bmjpi12l4nk4ed9pfbtkef422bn50tu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496485851384-f02qj959f01pmq8hc7nei58oivhmfjg2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.carius.lars.arFlutterPluginExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
